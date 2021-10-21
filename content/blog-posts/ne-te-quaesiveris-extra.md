@@ -1,5 +1,5 @@
 ---
-author: Ralph Waldo Emerson
+author: Anonim
 title: Ne te quaesiveris extra
 slug: ne-te-quaesiveris-extra
 date: 2019-08-08T07:00:00Z

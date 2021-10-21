@@ -1,5 +1,5 @@
 ---
-author: Friedrich Nietzsche
+author: Anonim
 title: The Geneology of Morals
 slug: the-geneology-of-morals
 date: 2019-08-19T07:00:00Z

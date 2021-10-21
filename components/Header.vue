@@ -2,7 +2,7 @@
     <header class="header">
         <nav class="nav">
             <NuxtLink to="/">
-                <h1>The Blog Title</h1>
+                <h1>seraphim</h1>
             </NuxtLink>
             <div>
                 <h1>

@@ -1,5 +1,5 @@
 ---
-author: Allen Ginsberg
+author: Anonim
 title: Sunflower Sutra
 slug: sunflower-sutra
 date: 2019-08-01T07:00:00Z

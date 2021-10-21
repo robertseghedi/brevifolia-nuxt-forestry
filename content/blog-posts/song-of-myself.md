@@ -1,5 +1,5 @@
 ---
-author: Walt Whitman
+author: Anonim
 title: Song of Myself
 slug: song-of-myself
 date: 2019-07-24T07:00:00Z
